@@ -1,0 +1,14 @@
+C:\Users\mazeycolt\source\repos\1.1 Hello World! - Mazey\1.1 Hello World! - Mazey\bin\Debug\net6.0\1.1 Hello World! - Mazey.exe
+C:\Users\mazeycolt\source\repos\1.1 Hello World! - Mazey\1.1 Hello World! - Mazey\bin\Debug\net6.0\1.1 Hello World! - Mazey.deps.json
+C:\Users\mazeycolt\source\repos\1.1 Hello World! - Mazey\1.1 Hello World! - Mazey\bin\Debug\net6.0\1.1 Hello World! - Mazey.runtimeconfig.json
+C:\Users\mazeycolt\source\repos\1.1 Hello World! - Mazey\1.1 Hello World! - Mazey\bin\Debug\net6.0\1.1 Hello World! - Mazey.dll
+C:\Users\mazeycolt\source\repos\1.1 Hello World! - Mazey\1.1 Hello World! - Mazey\bin\Debug\net6.0\1.1 Hello World! - Mazey.pdb
+C:\Users\mazeycolt\source\repos\1.1 Hello World! - Mazey\1.1 Hello World! - Mazey\obj\Debug\net6.0\1.1 Hello World! - Mazey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazeycolt\source\repos\1.1 Hello World! - Mazey\1.1 Hello World! - Mazey\obj\Debug\net6.0\1.1 Hello World! - Mazey.AssemblyInfoInputs.cache
+C:\Users\mazeycolt\source\repos\1.1 Hello World! - Mazey\1.1 Hello World! - Mazey\obj\Debug\net6.0\1.1 Hello World! - Mazey.AssemblyInfo.cs
+C:\Users\mazeycolt\source\repos\1.1 Hello World! - Mazey\1.1 Hello World! - Mazey\obj\Debug\net6.0\1.1 Hello World! - Mazey.csproj.CoreCompileInputs.cache
+C:\Users\mazeycolt\source\repos\1.1 Hello World! - Mazey\1.1 Hello World! - Mazey\obj\Debug\net6.0\1.1 Hello World! - Mazey.dll
+C:\Users\mazeycolt\source\repos\1.1 Hello World! - Mazey\1.1 Hello World! - Mazey\obj\Debug\net6.0\refint\1.1 Hello World! - Mazey.dll
+C:\Users\mazeycolt\source\repos\1.1 Hello World! - Mazey\1.1 Hello World! - Mazey\obj\Debug\net6.0\1.1 Hello World! - Mazey.pdb
+C:\Users\mazeycolt\source\repos\1.1 Hello World! - Mazey\1.1 Hello World! - Mazey\obj\Debug\net6.0\1.1 Hello World! - Mazey.genruntimeconfig.cache
+C:\Users\mazeycolt\source\repos\1.1 Hello World! - Mazey\1.1 Hello World! - Mazey\obj\Debug\net6.0\ref\1.1 Hello World! - Mazey.dll
