@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\Computer Science Codes\\Challenge 1 - Chain Letter - Mazey\\ChainLetter-Mazey\\ChainLetter-Mazey\\ChainLetter-Mazey.csproj",
+      "projectUniqueName": "C:\\Users\\mazeycolt\\Desktop\\APCSC\\Computer Science Codes\\Challenge 1 - Chain Letter - Mazey\\ChainLetter-Mazey\\ChainLetter-Mazey\\ChainLetter-Mazey.csproj",
       "projectName": "ChainLetter-Mazey",
-      "projectPath": "Z:\\Computer Science Codes\\Challenge 1 - Chain Letter - Mazey\\ChainLetter-Mazey\\ChainLetter-Mazey\\ChainLetter-Mazey.csproj",
+      "projectPath": "C:\\Users\\mazeycolt\\Desktop\\APCSC\\Computer Science Codes\\Challenge 1 - Chain Letter - Mazey\\ChainLetter-Mazey\\ChainLetter-Mazey\\ChainLetter-Mazey.csproj",
       "packagesPath": "C:\\Users\\mazeycolt\\.nuget\\packages\\",
-      "outputPath": "Z:\\Computer Science Codes\\Challenge 1 - Chain Letter - Mazey\\ChainLetter-Mazey\\ChainLetter-Mazey\\obj\\",
+      "outputPath": "C:\\Users\\mazeycolt\\Desktop\\APCSC\\Computer Science Codes\\Challenge 1 - Chain Letter - Mazey\\ChainLetter-Mazey\\ChainLetter-Mazey\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mazeycolt\\AppData\\Roaming\\NuGet\\NuGet.Config",
