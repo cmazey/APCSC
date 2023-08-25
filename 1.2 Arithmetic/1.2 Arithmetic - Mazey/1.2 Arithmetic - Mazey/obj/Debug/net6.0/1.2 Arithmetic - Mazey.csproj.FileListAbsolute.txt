@@ -1,0 +1,14 @@
+C:\Users\mazeycolt\Desktop\APCSC\1.2 Arithmetic\1.2 Arithmetic - Mazey\1.2 Arithmetic - Mazey\bin\Debug\net6.0\1.2 Arithmetic - Mazey.exe
+C:\Users\mazeycolt\Desktop\APCSC\1.2 Arithmetic\1.2 Arithmetic - Mazey\1.2 Arithmetic - Mazey\bin\Debug\net6.0\1.2 Arithmetic - Mazey.deps.json
+C:\Users\mazeycolt\Desktop\APCSC\1.2 Arithmetic\1.2 Arithmetic - Mazey\1.2 Arithmetic - Mazey\bin\Debug\net6.0\1.2 Arithmetic - Mazey.runtimeconfig.json
+C:\Users\mazeycolt\Desktop\APCSC\1.2 Arithmetic\1.2 Arithmetic - Mazey\1.2 Arithmetic - Mazey\bin\Debug\net6.0\1.2 Arithmetic - Mazey.dll
+C:\Users\mazeycolt\Desktop\APCSC\1.2 Arithmetic\1.2 Arithmetic - Mazey\1.2 Arithmetic - Mazey\bin\Debug\net6.0\1.2 Arithmetic - Mazey.pdb
+C:\Users\mazeycolt\Desktop\APCSC\1.2 Arithmetic\1.2 Arithmetic - Mazey\1.2 Arithmetic - Mazey\obj\Debug\net6.0\1.2 Arithmetic - Mazey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazeycolt\Desktop\APCSC\1.2 Arithmetic\1.2 Arithmetic - Mazey\1.2 Arithmetic - Mazey\obj\Debug\net6.0\1.2 Arithmetic - Mazey.AssemblyInfoInputs.cache
+C:\Users\mazeycolt\Desktop\APCSC\1.2 Arithmetic\1.2 Arithmetic - Mazey\1.2 Arithmetic - Mazey\obj\Debug\net6.0\1.2 Arithmetic - Mazey.AssemblyInfo.cs
+C:\Users\mazeycolt\Desktop\APCSC\1.2 Arithmetic\1.2 Arithmetic - Mazey\1.2 Arithmetic - Mazey\obj\Debug\net6.0\1.2 Arithmetic - Mazey.csproj.CoreCompileInputs.cache
+C:\Users\mazeycolt\Desktop\APCSC\1.2 Arithmetic\1.2 Arithmetic - Mazey\1.2 Arithmetic - Mazey\obj\Debug\net6.0\1.2 Arithmetic - Mazey.dll
+C:\Users\mazeycolt\Desktop\APCSC\1.2 Arithmetic\1.2 Arithmetic - Mazey\1.2 Arithmetic - Mazey\obj\Debug\net6.0\refint\1.2 Arithmetic - Mazey.dll
+C:\Users\mazeycolt\Desktop\APCSC\1.2 Arithmetic\1.2 Arithmetic - Mazey\1.2 Arithmetic - Mazey\obj\Debug\net6.0\1.2 Arithmetic - Mazey.pdb
+C:\Users\mazeycolt\Desktop\APCSC\1.2 Arithmetic\1.2 Arithmetic - Mazey\1.2 Arithmetic - Mazey\obj\Debug\net6.0\1.2 Arithmetic - Mazey.genruntimeconfig.cache
+C:\Users\mazeycolt\Desktop\APCSC\1.2 Arithmetic\1.2 Arithmetic - Mazey\1.2 Arithmetic - Mazey\obj\Debug\net6.0\ref\1.2 Arithmetic - Mazey.dll
