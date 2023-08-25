@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// See https://sehs.io/ for more information
 
 //Addition
 Console.WriteLine("I have two apples. I find another apple,. How many apples do I have?");
