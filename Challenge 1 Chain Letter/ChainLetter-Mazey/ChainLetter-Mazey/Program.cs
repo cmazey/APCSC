@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// See https://sehs.io for more information
 // 24/08/2023
 Console.WriteLine("Once you start reading this message, please don't stop until the end.");
 Console.WriteLine("Every five minutes, a duck duckling get seperated from it's family.");
