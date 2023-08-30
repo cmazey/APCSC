@@ -24,7 +24,7 @@ double leftover = balance - withdraw;
 Console.WriteLine($"You have a balance of ${balance} in your bank account.");
 
 Console.WriteLine($"If you withdraw ${withdraw}, you will have ${leftover}.");
-Console.WriteLIne();
+Console.WriteLine();
 
 int health = 100;
 double damage = 55.5;
