@@ -1,0 +1,14 @@
+C:\Users\Cmaze\OneDrive\Documents\APCSC\1.4 Variables\1.4 Variables - Mazey\1.4 Variables - Mazey\bin\Debug\net6.0\1.4 Variables - Mazey.exe
+C:\Users\Cmaze\OneDrive\Documents\APCSC\1.4 Variables\1.4 Variables - Mazey\1.4 Variables - Mazey\bin\Debug\net6.0\1.4 Variables - Mazey.deps.json
+C:\Users\Cmaze\OneDrive\Documents\APCSC\1.4 Variables\1.4 Variables - Mazey\1.4 Variables - Mazey\bin\Debug\net6.0\1.4 Variables - Mazey.runtimeconfig.json
+C:\Users\Cmaze\OneDrive\Documents\APCSC\1.4 Variables\1.4 Variables - Mazey\1.4 Variables - Mazey\bin\Debug\net6.0\1.4 Variables - Mazey.dll
+C:\Users\Cmaze\OneDrive\Documents\APCSC\1.4 Variables\1.4 Variables - Mazey\1.4 Variables - Mazey\bin\Debug\net6.0\1.4 Variables - Mazey.pdb
+C:\Users\Cmaze\OneDrive\Documents\APCSC\1.4 Variables\1.4 Variables - Mazey\1.4 Variables - Mazey\obj\Debug\net6.0\1.4 Variables - Mazey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cmaze\OneDrive\Documents\APCSC\1.4 Variables\1.4 Variables - Mazey\1.4 Variables - Mazey\obj\Debug\net6.0\1.4 Variables - Mazey.AssemblyInfoInputs.cache
+C:\Users\Cmaze\OneDrive\Documents\APCSC\1.4 Variables\1.4 Variables - Mazey\1.4 Variables - Mazey\obj\Debug\net6.0\1.4 Variables - Mazey.AssemblyInfo.cs
+C:\Users\Cmaze\OneDrive\Documents\APCSC\1.4 Variables\1.4 Variables - Mazey\1.4 Variables - Mazey\obj\Debug\net6.0\1.4 Variables - Mazey.csproj.CoreCompileInputs.cache
+C:\Users\Cmaze\OneDrive\Documents\APCSC\1.4 Variables\1.4 Variables - Mazey\1.4 Variables - Mazey\obj\Debug\net6.0\1.4 Variables - Mazey.dll
+C:\Users\Cmaze\OneDrive\Documents\APCSC\1.4 Variables\1.4 Variables - Mazey\1.4 Variables - Mazey\obj\Debug\net6.0\refint\1.4 Variables - Mazey.dll
+C:\Users\Cmaze\OneDrive\Documents\APCSC\1.4 Variables\1.4 Variables - Mazey\1.4 Variables - Mazey\obj\Debug\net6.0\1.4 Variables - Mazey.pdb
+C:\Users\Cmaze\OneDrive\Documents\APCSC\1.4 Variables\1.4 Variables - Mazey\1.4 Variables - Mazey\obj\Debug\net6.0\1.4 Variables - Mazey.genruntimeconfig.cache
+C:\Users\Cmaze\OneDrive\Documents\APCSC\1.4 Variables\1.4 Variables - Mazey\1.4 Variables - Mazey\obj\Debug\net6.0\ref\1.4 Variables - Mazey.dll
