@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\1.3 String Formatting\\1.3-String-Formatting-Mazey",
-    "\\1.3 String Formatting\\1.3-String-Formatting-Mazey\\1.3-String-Formatting-Mazey",
+    "\\1.4 Variables",
     "\\1.4 Variables\\1.4 Variables - Mazey",
-    "\\1.4 Variables\\1.4 Variables - Mazey\\1.4 Variables - Mazey",
-    "\\1.5"
+    "\\1.4 Variables\\1.4 Variables - Mazey\\1.4 Variables - Mazey"
   ],
-  "SelectedNode": "\\1.4 Variables",
+  "SelectedNode": "\\1.4 Variables\\1.4 Variables - Mazey\\1.4 Variables - Mazey\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
