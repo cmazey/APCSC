@@ -18,7 +18,7 @@ Console.WriteLine($"You will reach age 100 in {100 - age} years!");
 Console.WriteLine();
 
 double balance = 35.25;
-double withdraw3 = 0;
+double withdraw = 0;
 double leftover = balance - withdraw;
 
 Console.WriteLine($"You have a balance of ${balance} in your bank account.");
