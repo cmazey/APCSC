@@ -1,0 +1,14 @@
+C:\Users\mazeycolt\Desktop\APCSC\1.6 Prompting For Input\CodeChallenge4CToF - Mazey\CodeChallenge4CToF - Mazey\bin\Debug\net6.0\CodeChallenge4CToF - Mazey.exe
+C:\Users\mazeycolt\Desktop\APCSC\1.6 Prompting For Input\CodeChallenge4CToF - Mazey\CodeChallenge4CToF - Mazey\bin\Debug\net6.0\CodeChallenge4CToF - Mazey.deps.json
+C:\Users\mazeycolt\Desktop\APCSC\1.6 Prompting For Input\CodeChallenge4CToF - Mazey\CodeChallenge4CToF - Mazey\bin\Debug\net6.0\CodeChallenge4CToF - Mazey.runtimeconfig.json
+C:\Users\mazeycolt\Desktop\APCSC\1.6 Prompting For Input\CodeChallenge4CToF - Mazey\CodeChallenge4CToF - Mazey\bin\Debug\net6.0\CodeChallenge4CToF - Mazey.dll
+C:\Users\mazeycolt\Desktop\APCSC\1.6 Prompting For Input\CodeChallenge4CToF - Mazey\CodeChallenge4CToF - Mazey\bin\Debug\net6.0\CodeChallenge4CToF - Mazey.pdb
+C:\Users\mazeycolt\Desktop\APCSC\1.6 Prompting For Input\CodeChallenge4CToF - Mazey\CodeChallenge4CToF - Mazey\obj\Debug\net6.0\CodeChallenge4CToF - Mazey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazeycolt\Desktop\APCSC\1.6 Prompting For Input\CodeChallenge4CToF - Mazey\CodeChallenge4CToF - Mazey\obj\Debug\net6.0\CodeChallenge4CToF - Mazey.AssemblyInfoInputs.cache
+C:\Users\mazeycolt\Desktop\APCSC\1.6 Prompting For Input\CodeChallenge4CToF - Mazey\CodeChallenge4CToF - Mazey\obj\Debug\net6.0\CodeChallenge4CToF - Mazey.AssemblyInfo.cs
+C:\Users\mazeycolt\Desktop\APCSC\1.6 Prompting For Input\CodeChallenge4CToF - Mazey\CodeChallenge4CToF - Mazey\obj\Debug\net6.0\CodeChallenge4CToF - Mazey.csproj.CoreCompileInputs.cache
+C:\Users\mazeycolt\Desktop\APCSC\1.6 Prompting For Input\CodeChallenge4CToF - Mazey\CodeChallenge4CToF - Mazey\obj\Debug\net6.0\CodeChallenge4CToF - Mazey.dll
+C:\Users\mazeycolt\Desktop\APCSC\1.6 Prompting For Input\CodeChallenge4CToF - Mazey\CodeChallenge4CToF - Mazey\obj\Debug\net6.0\refint\CodeChallenge4CToF - Mazey.dll
+C:\Users\mazeycolt\Desktop\APCSC\1.6 Prompting For Input\CodeChallenge4CToF - Mazey\CodeChallenge4CToF - Mazey\obj\Debug\net6.0\CodeChallenge4CToF - Mazey.pdb
+C:\Users\mazeycolt\Desktop\APCSC\1.6 Prompting For Input\CodeChallenge4CToF - Mazey\CodeChallenge4CToF - Mazey\obj\Debug\net6.0\CodeChallenge4CToF - Mazey.genruntimeconfig.cache
+C:\Users\mazeycolt\Desktop\APCSC\1.6 Prompting For Input\CodeChallenge4CToF - Mazey\CodeChallenge4CToF - Mazey\obj\Debug\net6.0\ref\CodeChallenge4CToF - Mazey.dll
