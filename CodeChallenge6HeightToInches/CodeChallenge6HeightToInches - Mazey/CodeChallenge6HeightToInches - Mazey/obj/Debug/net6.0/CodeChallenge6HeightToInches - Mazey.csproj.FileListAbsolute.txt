@@ -1,0 +1,14 @@
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge6HeightToInches\CodeChallenge6HeightToInches - Mazey\CodeChallenge6HeightToInches - Mazey\bin\Debug\net6.0\CodeChallenge6HeightToInches - Mazey.exe
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge6HeightToInches\CodeChallenge6HeightToInches - Mazey\CodeChallenge6HeightToInches - Mazey\bin\Debug\net6.0\CodeChallenge6HeightToInches - Mazey.deps.json
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge6HeightToInches\CodeChallenge6HeightToInches - Mazey\CodeChallenge6HeightToInches - Mazey\bin\Debug\net6.0\CodeChallenge6HeightToInches - Mazey.runtimeconfig.json
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge6HeightToInches\CodeChallenge6HeightToInches - Mazey\CodeChallenge6HeightToInches - Mazey\bin\Debug\net6.0\CodeChallenge6HeightToInches - Mazey.dll
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge6HeightToInches\CodeChallenge6HeightToInches - Mazey\CodeChallenge6HeightToInches - Mazey\bin\Debug\net6.0\CodeChallenge6HeightToInches - Mazey.pdb
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge6HeightToInches\CodeChallenge6HeightToInches - Mazey\CodeChallenge6HeightToInches - Mazey\obj\Debug\net6.0\CodeChallenge6HeightToInches - Mazey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge6HeightToInches\CodeChallenge6HeightToInches - Mazey\CodeChallenge6HeightToInches - Mazey\obj\Debug\net6.0\CodeChallenge6HeightToInches - Mazey.AssemblyInfoInputs.cache
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge6HeightToInches\CodeChallenge6HeightToInches - Mazey\CodeChallenge6HeightToInches - Mazey\obj\Debug\net6.0\CodeChallenge6HeightToInches - Mazey.AssemblyInfo.cs
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge6HeightToInches\CodeChallenge6HeightToInches - Mazey\CodeChallenge6HeightToInches - Mazey\obj\Debug\net6.0\CodeChallenge6HeightToInches - Mazey.csproj.CoreCompileInputs.cache
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge6HeightToInches\CodeChallenge6HeightToInches - Mazey\CodeChallenge6HeightToInches - Mazey\obj\Debug\net6.0\CodeChallenge6HeightToInches - Mazey.dll
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge6HeightToInches\CodeChallenge6HeightToInches - Mazey\CodeChallenge6HeightToInches - Mazey\obj\Debug\net6.0\refint\CodeChallenge6HeightToInches - Mazey.dll
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge6HeightToInches\CodeChallenge6HeightToInches - Mazey\CodeChallenge6HeightToInches - Mazey\obj\Debug\net6.0\CodeChallenge6HeightToInches - Mazey.pdb
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge6HeightToInches\CodeChallenge6HeightToInches - Mazey\CodeChallenge6HeightToInches - Mazey\obj\Debug\net6.0\CodeChallenge6HeightToInches - Mazey.genruntimeconfig.cache
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge6HeightToInches\CodeChallenge6HeightToInches - Mazey\CodeChallenge6HeightToInches - Mazey\obj\Debug\net6.0\ref\CodeChallenge6HeightToInches - Mazey.dll
