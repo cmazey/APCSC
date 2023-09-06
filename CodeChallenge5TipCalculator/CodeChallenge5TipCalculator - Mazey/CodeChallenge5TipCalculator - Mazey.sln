@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChallenge5TipCalculator - Mazey", "CodeChallenge5TipCalculator - Mazey\CodeChallenge5TipCalculator - Mazey.csproj", "{11D58BCC-4064-4052-9324-612A55F6C546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11D58BCC-4064-4052-9324-612A55F6C546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D58BCC-4064-4052-9324-612A55F6C546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D58BCC-4064-4052-9324-612A55F6C546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D58BCC-4064-4052-9324-612A55F6C546}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8EBDFC9-D4DD-42FE-B6C6-5EF857AAE12B}
+	EndGlobalSection
+EndGlobal
