@@ -7,27 +7,27 @@ int gold = 0;
 int twinkies = 0;
 
 Console.WriteLine("Your car crashes into a tree during a thunderstorm in the woods.");
-Console.WriteLine("As the storm intensifies, you run into a nby cave to seek shelter.");
+Console.WriteLine("As the storm intensifies, you run into a nearby cave to seek shelter.");
 Console.WriteLine("Upon entering the cave, you see two diverging paths...\n");
 
 Console.Write("Which path do you take? (left or right) -> ");
 string path = Console.ReadLine().ToLower();
 
 Console.WriteLine("\nAs you leave, you see a delicious Hostess Twinkie.");
-Console.WriteLine("Do you eat the Twinkie for sustenance, or will you save it for later?");
+Console.WriteLine("Do you eat the Twinkie for sustenance, or will you save it for later?\n");
 
 Console.Write("(take of eat) -> ");
 string choice = Console.ReadLine();
 
 if (choice == "take")
 {
-    Console.WriteLine("You never know when a Twinkie will come in handy...\n");
+    Console.WriteLine("\nYou never know when a Twinkie will come in handy...\n");
     twinkies++;
 }
 else if (choice == "eat")
 {
 
-    Console.WriteLine("It's going to be a long night, so you decided to eat it.\n");
+    Console.WriteLine("\nIt's going to be a long night, so you decided to eat it.\n");
 
 }
 else
@@ -43,7 +43,7 @@ if (path == "left")
     Console.WriteLine("The pack leader slowly approaches...\n");
     Console.Write("Do you pet the pack leader? (yes or no) -> ");
 
-    choice = Console.ReadLine().ToLower;
+    choice = Console.ReadLine().ToLower();
 
     if (choice == "yes" && twinkies >= 1)
     {
@@ -76,7 +76,7 @@ else if (path == "right")
     Console.WriteLine("You decide to take the right path.");
     Console.WriteLine("\nLater down the trail, you stumble upon an overweight,");
     Console.WriteLine("repulsive looking talking dragon named Mort the Pudgy.");
-    Console.WriteLine("The dragon speaks: 'Did you bring me snack cakes??'");
+    Console.WriteLine("The dragon speaks: 'Did you bring me snack cakes??'\n");
 
     Console.Write("Do you have a treat to give this foul creature? (yes, no) -> ");
 
@@ -85,7 +85,7 @@ else if (path == "right")
     if (choice == "yes" && twinkies >= 1)
     {
 
-        Console.WriteLine("Me love Twinkie!!! Here take gold!");
+        Console.WriteLine("\nMe love Twinkie!!! Here take gold!");
         Console.WriteLine("The dragon grants you the gold he was guarding.\n");
         Console.Write("How much gold do you take? -> ");
 
@@ -102,13 +102,13 @@ else if (path == "right")
         else if (goldAmount > 100)
         {
 
-            Console.WriteLine("'gREEDY! no gold for you!'"\n);
+            Console.WriteLine("'\nGREEDY! no gold for you!'\n");
 
         }
         else
         {
 
-            Console.WriteLine("Mortimer the pudgy respects youe piety!");
+            Console.WriteLine("\nMortimer the pudgy respects your piety!");
             Console.WriteLine("You are granted all the gold!\n");
             gold = gold + 100000;
 
@@ -119,7 +119,7 @@ else if (path == "right")
     else
     {
 
-        Console.WriteLine("'Fool!!!'");
+        Console.WriteLine("\n'Fool!!!'");
         Console.WriteLine("The dragon devours you whole.");
         Console.WriteLine("He desired a delicious Hostess treat, settling for you instead...\n");
 
@@ -138,7 +138,7 @@ else
 if (wolfpackEnding)
 {
 
-    Console.WriteLine("By cuddling with the wolfpack, you weather out the storm.");
+    Console.WriteLine("\nBy cuddling with the wolfpack, you weather out the storm.");
     Console.WriteLine("Upon leaving the cave, they follow you, seeing you as the new pack leader.");
     Console.WriteLine("You survived!!!");
 
@@ -146,7 +146,7 @@ if (wolfpackEnding)
 else if (dragonEnding)
 {
 
-    Console.WriteLine("By tempting Mortimer the Pudgy with a delicious Hostess snack cake, you avoid his wrath.");
+    Console.WriteLine("\nBy tempting Mortimer the Pudgy with a delicious Hostess snack cake, you avoid his wrath.");
     Console.WriteLine("He flies you back home after the storm, but not after raiding the nearest Hostess factory.");
     Console.WriteLine("You survived!!!!");
 }
