@@ -1,0 +1,4 @@
+C:\Users\mazeycolt\Desktop\APCSC\2.5 Nested If Statements\obj\Debug\net6.0\2.5 Nested If Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazeycolt\Desktop\APCSC\2.5 Nested If Statements\obj\Debug\net6.0\2.5 Nested If Statements.AssemblyInfoInputs.cache
+C:\Users\mazeycolt\Desktop\APCSC\2.5 Nested If Statements\obj\Debug\net6.0\2.5 Nested If Statements.AssemblyInfo.cs
+C:\Users\mazeycolt\Desktop\APCSC\2.5 Nested If Statements\obj\Debug\net6.0\2.5 Nested If Statements.csproj.CoreCompileInputs.cache

@@ -16,7 +16,7 @@ string path = Console.ReadLine().ToLower();
 Console.WriteLine("\nAs you leave, you see a delicious Hostess Twinkie.");
 Console.WriteLine("Do you eat the Twinkie for sustenance, or will you save it for later?");
 
-Console.Write("(take of eat_ -> ");
+Console.Write("(take of eat) -> ");
 string choice = Console.ReadLine();
 
 if (choice == "take")
@@ -27,13 +27,13 @@ if (choice == "take")
 else if (choice == "eat")
 {
 
-    Console.WriteLine("It's going to be a long night, so you ecided to eat it.\n");
+    Console.WriteLine("It's going to be a long night, so you decided to eat it.\n");
 
 }
 else
 {
 
-    Console.WriteLine("You leave the twinkie alone.\n");
+    Console.WriteLine("You leave the Twinkie alone.\n");
 }
 
 if (path == "left")
@@ -129,8 +129,32 @@ else if (path == "right")
 else
 {
 
-    Console.WriteLine("You decide not to enter. You receive a thunderstock and lie in the strom...\n");
+    Console.WriteLine("You decide not to enter. You receive a thunderstock and lie in the storm...\n");
 
 }
 
 // ENDGAME
+
+if (wolfpackEnding)
+{
+
+    Console.WriteLine("By cuddling with the wolfpack, you weather out the storm.");
+    Console.WriteLine("Upon leaving the cave, they follow you, seeing you as the new pack leader.");
+    Console.WriteLine("You survived!!!");
+
+}
+else if (dragonEnding)
+{
+
+    Console.WriteLine("By tempting Mortimer the Pudgy with a delicious Hostess snack cake, you avoid his wrath.");
+    Console.WriteLine("He flies you back home after the storm, but not after raiding the nearest Hostess factory.");
+    Console.WriteLine("You survived!!!!");
+}
+if (gold > 0)
+{
+
+    Console.WriteLine($"\nYou not only survived, but you found {gold} gold! Good work!");
+
+}
+
+
