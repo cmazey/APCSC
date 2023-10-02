@@ -1,0 +1,14 @@
+C:\Users\mazeycolt\Desktop\APCSC\2.10 Multiplication Table\bin\Debug\net6.0\2.10 Multiplication Table.exe
+C:\Users\mazeycolt\Desktop\APCSC\2.10 Multiplication Table\bin\Debug\net6.0\2.10 Multiplication Table.deps.json
+C:\Users\mazeycolt\Desktop\APCSC\2.10 Multiplication Table\bin\Debug\net6.0\2.10 Multiplication Table.runtimeconfig.json
+C:\Users\mazeycolt\Desktop\APCSC\2.10 Multiplication Table\bin\Debug\net6.0\2.10 Multiplication Table.dll
+C:\Users\mazeycolt\Desktop\APCSC\2.10 Multiplication Table\bin\Debug\net6.0\2.10 Multiplication Table.pdb
+C:\Users\mazeycolt\Desktop\APCSC\2.10 Multiplication Table\obj\Debug\net6.0\2.10 Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazeycolt\Desktop\APCSC\2.10 Multiplication Table\obj\Debug\net6.0\2.10 Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\mazeycolt\Desktop\APCSC\2.10 Multiplication Table\obj\Debug\net6.0\2.10 Multiplication Table.AssemblyInfo.cs
+C:\Users\mazeycolt\Desktop\APCSC\2.10 Multiplication Table\obj\Debug\net6.0\2.10 Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\mazeycolt\Desktop\APCSC\2.10 Multiplication Table\obj\Debug\net6.0\2.10 Multiplication Table.dll
+C:\Users\mazeycolt\Desktop\APCSC\2.10 Multiplication Table\obj\Debug\net6.0\refint\2.10 Multiplication Table.dll
+C:\Users\mazeycolt\Desktop\APCSC\2.10 Multiplication Table\obj\Debug\net6.0\2.10 Multiplication Table.pdb
+C:\Users\mazeycolt\Desktop\APCSC\2.10 Multiplication Table\obj\Debug\net6.0\2.10 Multiplication Table.genruntimeconfig.cache
+C:\Users\mazeycolt\Desktop\APCSC\2.10 Multiplication Table\obj\Debug\net6.0\ref\2.10 Multiplication Table.dll
