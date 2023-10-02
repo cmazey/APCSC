@@ -1,0 +1,14 @@
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge14HeadsOrTails\bin\Debug\net6.0\CodeChallenge14HeadsOrTails.exe
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge14HeadsOrTails\bin\Debug\net6.0\CodeChallenge14HeadsOrTails.deps.json
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge14HeadsOrTails\bin\Debug\net6.0\CodeChallenge14HeadsOrTails.runtimeconfig.json
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge14HeadsOrTails\bin\Debug\net6.0\CodeChallenge14HeadsOrTails.dll
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge14HeadsOrTails\bin\Debug\net6.0\CodeChallenge14HeadsOrTails.pdb
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge14HeadsOrTails\obj\Debug\net6.0\CodeChallenge14HeadsOrTails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge14HeadsOrTails\obj\Debug\net6.0\CodeChallenge14HeadsOrTails.AssemblyInfoInputs.cache
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge14HeadsOrTails\obj\Debug\net6.0\CodeChallenge14HeadsOrTails.AssemblyInfo.cs
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge14HeadsOrTails\obj\Debug\net6.0\CodeChallenge14HeadsOrTails.csproj.CoreCompileInputs.cache
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge14HeadsOrTails\obj\Debug\net6.0\CodeChallenge14HeadsOrTails.dll
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge14HeadsOrTails\obj\Debug\net6.0\refint\CodeChallenge14HeadsOrTails.dll
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge14HeadsOrTails\obj\Debug\net6.0\CodeChallenge14HeadsOrTails.pdb
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge14HeadsOrTails\obj\Debug\net6.0\CodeChallenge14HeadsOrTails.genruntimeconfig.cache
+C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge14HeadsOrTails\obj\Debug\net6.0\ref\CodeChallenge14HeadsOrTails.dll
