@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DxzchonZ2TTd+E0fYnNHornvsxFQnQNfgIcRkI1D0E3UA8ocTuEp+NtTa54u+s+7DefyJHGsMCOlmtQ4mhyzSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mazeycolt\\Desktop\\APCSC\\Lab 1\\Lab 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mazeycolt\\.nuget\\packages\\raylib-cs\\4.5.0.4\\raylib-cs.4.5.0.4.nupkg.sha512",
+    "C:\\Users\\mazeycolt\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
