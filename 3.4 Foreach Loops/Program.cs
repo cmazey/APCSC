@@ -27,6 +27,9 @@ while (input != "3")
         {
             Console.WriteLine($"- {item}");
         }
+
+        Console.WriteLine("Press enter to continue...");
+        Console.ReadLine();
     }
     else if (input == "3")
     {
