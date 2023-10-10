@@ -1,4 +1,5 @@
 ﻿// See https://sehs.io/ for more information
+
 List<string> raffleAttendants = new List<string>();
 bool raffleManager = true;
 Random random = new Random();
@@ -31,4 +32,6 @@ int raffleWinner = random.Next(0, raffleAttendants.Count);
 Console.WriteLine("The winner is...");
 Thread.Sleep(5000);
 
-Console.WriteLine(raffleWinner[input]);
+Console.WriteLine($"{raffleWinner}!");
+
+Console.ReadLine();
