@@ -3,15 +3,14 @@
 List<string> raffleAttendants = new List<string>();
 bool raffleManager = true;
 Random random = new Random();
-string input = "";
 
 Console.WriteLine("--- Raffle ---");
 
 while (raffleManager)
 {
     Console.Write("Enter a contestant name: ");
-    input = Console.ReadLine();
-    raffleAttendants.Add(input);
+    string unput = Console.ReadLine();
+    raffle.Add(unput);
 
     Console.Write("\nAdd another? (y/n) -> ");
     string input = Console.ReadLine();
@@ -32,6 +31,8 @@ int raffleWinner = random.Next(0, raffleAttendants.Count);
 Console.WriteLine("The winner is...");
 Thread.Sleep(5000);
 
-Console.WriteLine($"{raffleWinner}!");
+Console.WriteLine($"{raffleAttendants(raffleWinner)}!");
+
+// Console.WriteLine($"{GetraffleWinner(raffleWinner)}!");
 
 Console.ReadLine();
