@@ -1,6 +1,6 @@
 ﻿// See https://sehs.io/ for more information
 
-List<string> raffleAttendants = new List<string>();
+List<string> raffle = new List<string>();
 bool raffleManager = true;
 Random random = new Random();
 
@@ -25,13 +25,13 @@ while (raffleManager)
     }
 }
 
-int raffleWinner = random.Next(0, raffleAttendants.Count);
+int winner = random.Next(0, raffle.Count);
 
 
 Console.WriteLine("The winner is...");
 Thread.Sleep(5000);
 
-Console.WriteLine($"{raffleAttendants(raffleWinner)}!");
+Console.WriteLine($"{raffle(winner)}!");
 
 // Console.WriteLine($"{GetraffleWinner(raffleWinner)}!");
 
