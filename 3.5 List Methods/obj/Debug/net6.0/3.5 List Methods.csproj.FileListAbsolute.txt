@@ -1,0 +1,14 @@
+C:\Users\mazeycolt\Desktop\APCSC\3.5 List Methods\obj\Debug\net6.0\3.5 List Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazeycolt\Desktop\APCSC\3.5 List Methods\obj\Debug\net6.0\3.5 List Methods.AssemblyInfoInputs.cache
+C:\Users\mazeycolt\Desktop\APCSC\3.5 List Methods\obj\Debug\net6.0\3.5 List Methods.AssemblyInfo.cs
+C:\Users\mazeycolt\Desktop\APCSC\3.5 List Methods\obj\Debug\net6.0\3.5 List Methods.csproj.CoreCompileInputs.cache
+C:\Users\mazeycolt\Desktop\APCSC\3.5 List Methods\bin\Debug\net6.0\3.5 List Methods.exe
+C:\Users\mazeycolt\Desktop\APCSC\3.5 List Methods\bin\Debug\net6.0\3.5 List Methods.deps.json
+C:\Users\mazeycolt\Desktop\APCSC\3.5 List Methods\bin\Debug\net6.0\3.5 List Methods.runtimeconfig.json
+C:\Users\mazeycolt\Desktop\APCSC\3.5 List Methods\bin\Debug\net6.0\3.5 List Methods.dll
+C:\Users\mazeycolt\Desktop\APCSC\3.5 List Methods\bin\Debug\net6.0\3.5 List Methods.pdb
+C:\Users\mazeycolt\Desktop\APCSC\3.5 List Methods\obj\Debug\net6.0\3.5 List Methods.dll
+C:\Users\mazeycolt\Desktop\APCSC\3.5 List Methods\obj\Debug\net6.0\refint\3.5 List Methods.dll
+C:\Users\mazeycolt\Desktop\APCSC\3.5 List Methods\obj\Debug\net6.0\3.5 List Methods.pdb
+C:\Users\mazeycolt\Desktop\APCSC\3.5 List Methods\obj\Debug\net6.0\3.5 List Methods.genruntimeconfig.cache
+C:\Users\mazeycolt\Desktop\APCSC\3.5 List Methods\obj\Debug\net6.0\ref\3.5 List Methods.dll
