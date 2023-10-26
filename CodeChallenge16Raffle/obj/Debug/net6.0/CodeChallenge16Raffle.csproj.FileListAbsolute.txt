@@ -1,14 +1,4 @@
-C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge16Raffle\bin\Debug\net6.0\CodeChallenge16Raffle.exe
-C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge16Raffle\bin\Debug\net6.0\CodeChallenge16Raffle.deps.json
-C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge16Raffle\bin\Debug\net6.0\CodeChallenge16Raffle.runtimeconfig.json
-C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge16Raffle\bin\Debug\net6.0\CodeChallenge16Raffle.dll
-C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge16Raffle\bin\Debug\net6.0\CodeChallenge16Raffle.pdb
 C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge16Raffle\obj\Debug\net6.0\CodeChallenge16Raffle.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge16Raffle\obj\Debug\net6.0\CodeChallenge16Raffle.AssemblyInfoInputs.cache
 C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge16Raffle\obj\Debug\net6.0\CodeChallenge16Raffle.AssemblyInfo.cs
 C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge16Raffle\obj\Debug\net6.0\CodeChallenge16Raffle.csproj.CoreCompileInputs.cache
-C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge16Raffle\obj\Debug\net6.0\CodeChallenge16Raffle.dll
-C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge16Raffle\obj\Debug\net6.0\refint\CodeChallenge16Raffle.dll
-C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge16Raffle\obj\Debug\net6.0\CodeChallenge16Raffle.pdb
-C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge16Raffle\obj\Debug\net6.0\CodeChallenge16Raffle.genruntimeconfig.cache
-C:\Users\mazeycolt\Desktop\APCSC\CodeChallenge16Raffle\obj\Debug\net6.0\ref\CodeChallenge16Raffle.dll
