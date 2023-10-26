@@ -1,0 +1,14 @@
+C:\Users\mazeycolt\Desktop\APCSC\4.1 Method Basics\bin\Debug\net6.0\4.1 Method Basics.exe
+C:\Users\mazeycolt\Desktop\APCSC\4.1 Method Basics\bin\Debug\net6.0\4.1 Method Basics.deps.json
+C:\Users\mazeycolt\Desktop\APCSC\4.1 Method Basics\bin\Debug\net6.0\4.1 Method Basics.runtimeconfig.json
+C:\Users\mazeycolt\Desktop\APCSC\4.1 Method Basics\bin\Debug\net6.0\4.1 Method Basics.dll
+C:\Users\mazeycolt\Desktop\APCSC\4.1 Method Basics\bin\Debug\net6.0\4.1 Method Basics.pdb
+C:\Users\mazeycolt\Desktop\APCSC\4.1 Method Basics\obj\Debug\net6.0\4.1 Method Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazeycolt\Desktop\APCSC\4.1 Method Basics\obj\Debug\net6.0\4.1 Method Basics.AssemblyInfoInputs.cache
+C:\Users\mazeycolt\Desktop\APCSC\4.1 Method Basics\obj\Debug\net6.0\4.1 Method Basics.AssemblyInfo.cs
+C:\Users\mazeycolt\Desktop\APCSC\4.1 Method Basics\obj\Debug\net6.0\4.1 Method Basics.csproj.CoreCompileInputs.cache
+C:\Users\mazeycolt\Desktop\APCSC\4.1 Method Basics\obj\Debug\net6.0\4.1 Method Basics.dll
+C:\Users\mazeycolt\Desktop\APCSC\4.1 Method Basics\obj\Debug\net6.0\refint\4.1 Method Basics.dll
+C:\Users\mazeycolt\Desktop\APCSC\4.1 Method Basics\obj\Debug\net6.0\4.1 Method Basics.pdb
+C:\Users\mazeycolt\Desktop\APCSC\4.1 Method Basics\obj\Debug\net6.0\4.1 Method Basics.genruntimeconfig.cache
+C:\Users\mazeycolt\Desktop\APCSC\4.1 Method Basics\obj\Debug\net6.0\ref\4.1 Method Basics.dll
