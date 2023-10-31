@@ -21,7 +21,7 @@ double GetWattage(double volts, double amps)
 }
 
 Console.WriteLine("1) IsEven()");
-Console.WriteLine("2) IsEven()");
+Console.WriteLine("2) IsOdd()");
 Console.WriteLine("3) RollDie()");
 Console.WriteLine("4) GetWattage()");
 
