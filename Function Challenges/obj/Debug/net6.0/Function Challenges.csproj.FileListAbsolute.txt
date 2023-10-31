@@ -1,12 +1,12 @@
+C:\Users\mazeycolt\Desktop\APCSC\Function Challenges\obj\Debug\net6.0\Function Challenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazeycolt\Desktop\APCSC\Function Challenges\obj\Debug\net6.0\Function Challenges.AssemblyInfoInputs.cache
+C:\Users\mazeycolt\Desktop\APCSC\Function Challenges\obj\Debug\net6.0\Function Challenges.AssemblyInfo.cs
+C:\Users\mazeycolt\Desktop\APCSC\Function Challenges\obj\Debug\net6.0\Function Challenges.csproj.CoreCompileInputs.cache
 C:\Users\mazeycolt\Desktop\APCSC\Function Challenges\bin\Debug\net6.0\Function Challenges.exe
 C:\Users\mazeycolt\Desktop\APCSC\Function Challenges\bin\Debug\net6.0\Function Challenges.deps.json
 C:\Users\mazeycolt\Desktop\APCSC\Function Challenges\bin\Debug\net6.0\Function Challenges.runtimeconfig.json
 C:\Users\mazeycolt\Desktop\APCSC\Function Challenges\bin\Debug\net6.0\Function Challenges.dll
 C:\Users\mazeycolt\Desktop\APCSC\Function Challenges\bin\Debug\net6.0\Function Challenges.pdb
-C:\Users\mazeycolt\Desktop\APCSC\Function Challenges\obj\Debug\net6.0\Function Challenges.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mazeycolt\Desktop\APCSC\Function Challenges\obj\Debug\net6.0\Function Challenges.AssemblyInfoInputs.cache
-C:\Users\mazeycolt\Desktop\APCSC\Function Challenges\obj\Debug\net6.0\Function Challenges.AssemblyInfo.cs
-C:\Users\mazeycolt\Desktop\APCSC\Function Challenges\obj\Debug\net6.0\Function Challenges.csproj.CoreCompileInputs.cache
 C:\Users\mazeycolt\Desktop\APCSC\Function Challenges\obj\Debug\net6.0\Function Challenges.dll
 C:\Users\mazeycolt\Desktop\APCSC\Function Challenges\obj\Debug\net6.0\refint\Function Challenges.dll
 C:\Users\mazeycolt\Desktop\APCSC\Function Challenges\obj\Debug\net6.0\Function Challenges.pdb
