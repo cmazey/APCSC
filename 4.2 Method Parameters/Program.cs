@@ -8,7 +8,7 @@ bool IsOdd(int number)
     return (number % 2 == 1);
 }
 
-int rOLLdIE(int numberOfSides)
+int RollDie(int numberOfSides)
 {
     Random random = new Random();
     return random.Next(1, numberOfSides + 1);
@@ -45,6 +45,20 @@ else if (input == "2")
 else if (input == "3")
 {
     Console.Write("How many sides is the die? ");
-    int sides Convert.ToInt32(Console.ReadLine());
-    // Line: 59SSSS
+    int sides = Convert.ToInt32(Console.ReadLine());
+    int roll = RollDie(sides);
+    Console.WriteLine($"You rolled a {roll}.");
+}
+else if (input == "4")
+{
+    Console.Write("Enter voltage: ");
+    double v = Convert.ToInt32(Console.ReadLine());
+    Console.Write("Enter amperage: ");
+    double a = Convert.ToInt32(Console.ReadLine());
+    double watts = GetWattage(v, a);
+    Console.WriteLine($"{v}V x {a}A = {watts}W");
+}
+else
+{
+    Console.WriteLine("Invalid option selected.");
 }

@@ -1,0 +1,14 @@
+C:\Users\mazeycolt\Desktop\APCSC\4.2 Method Parameters\obj\Debug\net6.0\4.2 Method Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazeycolt\Desktop\APCSC\4.2 Method Parameters\obj\Debug\net6.0\4.2 Method Parameters.AssemblyInfoInputs.cache
+C:\Users\mazeycolt\Desktop\APCSC\4.2 Method Parameters\obj\Debug\net6.0\4.2 Method Parameters.AssemblyInfo.cs
+C:\Users\mazeycolt\Desktop\APCSC\4.2 Method Parameters\obj\Debug\net6.0\4.2 Method Parameters.csproj.CoreCompileInputs.cache
+C:\Users\mazeycolt\Desktop\APCSC\4.2 Method Parameters\bin\Debug\net6.0\4.2 Method Parameters.exe
+C:\Users\mazeycolt\Desktop\APCSC\4.2 Method Parameters\bin\Debug\net6.0\4.2 Method Parameters.deps.json
+C:\Users\mazeycolt\Desktop\APCSC\4.2 Method Parameters\bin\Debug\net6.0\4.2 Method Parameters.runtimeconfig.json
+C:\Users\mazeycolt\Desktop\APCSC\4.2 Method Parameters\bin\Debug\net6.0\4.2 Method Parameters.dll
+C:\Users\mazeycolt\Desktop\APCSC\4.2 Method Parameters\bin\Debug\net6.0\4.2 Method Parameters.pdb
+C:\Users\mazeycolt\Desktop\APCSC\4.2 Method Parameters\obj\Debug\net6.0\4.2 Method Parameters.dll
+C:\Users\mazeycolt\Desktop\APCSC\4.2 Method Parameters\obj\Debug\net6.0\refint\4.2 Method Parameters.dll
+C:\Users\mazeycolt\Desktop\APCSC\4.2 Method Parameters\obj\Debug\net6.0\4.2 Method Parameters.pdb
+C:\Users\mazeycolt\Desktop\APCSC\4.2 Method Parameters\obj\Debug\net6.0\4.2 Method Parameters.genruntimeconfig.cache
+C:\Users\mazeycolt\Desktop\APCSC\4.2 Method Parameters\obj\Debug\net6.0\ref\4.2 Method Parameters.dll
